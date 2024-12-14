@@ -25,7 +25,7 @@ def receive_messages(client_socket, stop_event):
             break
 
 def main():
-    server_address = '127.0.0.1'
+    server_address = '0.0.0.0'
     server_port = 6000
     stop_event = threading.Event()
 

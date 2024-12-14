@@ -27,7 +27,7 @@ def handle_client(client_socket, client_address, client_id, other_client_socket)
 
 # Server function to handle connections and start communication between two clients
 def start_server():
-    server_address = '127.0.0.1'
+    server_address = '0.0.0.0'
     server_port = 6000
 
     # Create socket object
