@@ -58,7 +58,7 @@
     "last_opened_file_path": "/Volumes/Disk4Projects/PyCharm/Messenger"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.server">
+  <component name="RunManager" selected="Python.Client_2">
     <configuration name="Client_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Messenger" />
       <option name="ENV_FILES" value="" />
@@ -149,9 +149,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.server" />
-        <item itemvalue="Python.Client_2" />
         <item itemvalue="Python.Client_1" />
+        <item itemvalue="Python.Client_2" />
+        <item itemvalue="Python.server" />
         <item itemvalue="Python.qwe" />
       </list>
     </recent_temporary>
